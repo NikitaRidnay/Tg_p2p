@@ -1,6 +1,13 @@
 # Tg_p2p
 p2p Currecy Bot for telegram
 
+Stack:
+
+-Python 3.10
+
+-Telebot
+
+-requests
 
 
 Run bot.py 
